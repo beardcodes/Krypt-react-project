@@ -1,3 +1,7 @@
+# Krypt Website Made using React and Tailwind 
+
+![main](https://user-images.githubusercontent.com/81950204/169734063-e94eb7e4-766c-4ca0-a21a-57163b02cba6.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
